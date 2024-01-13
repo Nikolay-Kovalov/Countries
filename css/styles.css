@@ -1,0 +1,69 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+ol,
+dl {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    padding-top: 32px;
+    padding-bottom: 100px;
+    position: relative;
+    font-family: Roboto, sans-serif;
+    background: linear-gradient(to bottom, yellow, blue);
+    background-repeat: no-repeat;
+
+}
+
+.container {
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+
+}
+
+.title {
+    margin-top: 12px;
+    margin-bottom: 24px;
+    font-size: 64px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 16px;
+    color: white;
+}
+
+p:last-child {
+    margin-bottom: 0;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 48px;
+}
