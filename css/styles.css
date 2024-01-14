@@ -30,7 +30,7 @@ body {
     padding-bottom: 100px;
     position: relative;
     font-family: Roboto, sans-serif;
-    background: linear-gradient(to bottom, yellow, blue);
+    background: linear-gradient(to bottom, blue, yellow);
     background-repeat: no-repeat;
 
 }
@@ -54,7 +54,7 @@ p {
     text-align: center;
     font-size: 24px;
     margin-bottom: 16px;
-    color: white;
+    color: black;
 }
 
 p:last-child {
